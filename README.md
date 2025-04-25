@@ -14,7 +14,7 @@ PLC, 로봇, 센서, 머신비전, 그리고 그것들을 하나로 묶어주는
 
 ### 🧩 Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-charp&logoColor=white)
 
 
 ---
@@ -36,3 +36,8 @@ PLC, 로봇, 센서, 머신비전, 그리고 그것들을 하나로 묶어주는
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+
+---
+
+🧠 자주 사용하는 언어 (Top Languages)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wadangzz)](https://github.com/anuraghazra/github-readme-stats)
