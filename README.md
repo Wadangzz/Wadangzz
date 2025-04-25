@@ -14,7 +14,7 @@ PLC, 로봇, 센서, 머신비전, 그리고 그것들을 하나로 묶어주는
 
 ### 🧩 Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-charp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white)
 
 
 ---
