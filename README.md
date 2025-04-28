@@ -32,25 +32,26 @@
 ## 🔧 Tech Stack
 
 ### ⚙️ Hardware / Device
-![Mitsubishi MELSEC](https://img.shields.io/badge/MITSUBISHI_MELSEC-E60012?style=flat&logo=semiconductor-manufacturing&logoColor=white)
+![Mitsubishi MELSEC](https://img.shields.io/badge/MITSUBISHI_MELSEC-E60012?style=flat&logo=mitsubishi&logoColor=white)
 
----
+
+### 📐 3D Modeling
+
+![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=flat&logo=dassaultsystemes&logoColor=white)
+
 
 ### 🧩 Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white)
 
 
----
-
 ### 🔌 API / Library
-![MX Component](https://img.shields.io/badge/MX_Component-000000?style=flat&logo=windows&logoColor=white)
 ![Dobot SDK](https://img.shields.io/badge/Dobot_SDK-0082C8?style=flat&logo=usb&logoColor=white)
-![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-7B68EE?style=flat&logo=pytorch&logoColor=white)
+![MX Component](https://img.shields.io/badge/MX_Component-000000?style=flat&logo=mitsubishi&logoColor=white)
+![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=flat&logo=ultralytics&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
----
 
 ### 🧱 Framework / Engine / Platform
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
