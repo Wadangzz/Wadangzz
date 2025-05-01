@@ -45,12 +45,16 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white)
 
 
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
+
 ### 🔌 API / Library
 ![Dobot SDK](https://img.shields.io/badge/Dobot_SDK-0082C8?style=flat&logo=usb&logoColor=white)
 ![MX Component](https://img.shields.io/badge/MX_Component-000000?style=flat&logo=mitsubishi&logoColor=white)
 ![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=flat&logo=ultralytics&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
 
 ### 🧱 Framework / Engine / Platform
