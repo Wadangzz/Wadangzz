@@ -56,14 +56,6 @@
 ![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=flat&logo=ultralytics&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 
----
-
-### 🤝Project
-[**전기자동차 배터리 Pack 통합 제조 솔루션 구축**](https://github.com/Wadangzz/Project)
-
----
-
-
 ### 🧱 Framework / Engine / Platform
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -72,6 +64,11 @@
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat&logo=mediapipe&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+
+---
+
+### 🤝Project
+[**전기자동차 배터리 Pack 통합 제조 솔루션 구축**](https://github.com/Wadangzz/Project)
 
 ---
 
