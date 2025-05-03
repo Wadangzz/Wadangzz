@@ -56,6 +56,13 @@
 ![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=flat&logo=ultralytics&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 
+---
+
+### 🤝Project
+[**전기자동차 배터리 Pack 통합 제조 솔루션 구축**](https://github.com/Wadangzz/Project)
+
+---
+
 
 ### 🧱 Framework / Engine / Platform
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
