@@ -1,7 +1,5 @@
 ## 👋 Hi There
 
-👤 [**My Resume**](https://github.com/Wadangzz/Wadangzz/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C.pdf)
-
 
 자동화 시스템과 스마트 팩토리에 큰 관심을 가지고 배우고 있는 **엔지니어**입니다.
   
