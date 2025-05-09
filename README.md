@@ -16,6 +16,8 @@
 📚 작은 경험을 차곡차곡 쌓아가며,  
 🚀 더 나은 자동화 시스템을 만들기 위해 성장해 나가고 있습니다.  
 
+👤 [**My Resume**](https://github.com/Wadangzz/Wadangzz/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C.pdf)
+
 ---
 
 ## 🔑 Soft Skill
