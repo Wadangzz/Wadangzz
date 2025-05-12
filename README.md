@@ -18,7 +18,7 @@
 🚀 더 나은 자동화 시스템을 만들기 위해 성장해 나가고 있습니다.  
 
 
-Mail : wadangzz@knou.ac.kr
+**Mail** : wadangzz@knou.ac.kr
 
 ---
 
@@ -38,10 +38,6 @@ Mail : wadangzz@knou.ac.kr
 ### ⚙️ Hardware / Device
 ![Mitsubishi MELSEC](https://img.shields.io/badge/MITSUBISHI_MELSEC-E60012?style=flat&logo=mitsubishi&logoColor=white)
 
-
-### 📐 3D Modeling
-
-![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=flat&logo=dassaultsystemes&logoColor=white)
 
 
 ### 🧩 Language
