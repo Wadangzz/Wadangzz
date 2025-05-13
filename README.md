@@ -18,7 +18,8 @@
 🚀 더 나은 시스템을 만들기 위해 성장해 나가고 있습니다.  
 
 
-**Mail** : wadangzz@knou.ac.kr
+**Mail** : wadangzz@knou.ac.kr   
+[**Youtube**](https://youtube.com/@wadangzz-z1q?si=dLK3VqqjBkoOQOC3)
 
 ---
 
