@@ -74,4 +74,3 @@
 ---
 
 ### 🧠 자주 사용하는 언어 (Top Languages)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wadangzz)](https://github.com/anuraghazra/github-readme-stats)
