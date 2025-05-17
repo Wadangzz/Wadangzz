@@ -73,4 +73,4 @@
 - [**YOLO, Mediapipe Computer Vision**](https://github.com/Wadangzz/cv_gpu)
 - [**Modbus TCP Master/Slave**](https://github.com/Wadangzz/PLC_NModbus)
 - [**Unity Digital Twin**](https://github.com/Wadangzz/Final_DT)
-- [MySQL Database Read**](https://github.com/Wadangzz/DataBase)
+- [**MySQL Database Read**](https://github.com/Wadangzz/DataBase)
