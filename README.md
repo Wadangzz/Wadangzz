@@ -71,7 +71,3 @@
 ### 🤝Project
 - [**Newton-Raphson Method Robot Inverse Kinematics + Trajectory**](https://github.com/Wadangzz/Numerical_IK)
 - [**인천인력개발원 전기자동차 배터리 Pack 통합 제조 솔루션 구축**](https://github.com/Wadangzz/Project)
-- [**YOLO, Mediapipe Computer Vision**](https://github.com/Wadangzz/cv_gpu)
-- [**Modbus TCP Master/Slave**](https://github.com/Wadangzz/PLC_NModbus)
-- [**Unity Digital Twin**](https://github.com/Wadangzz/Final_DT)
-- [**MySQL Database Read**](https://github.com/Wadangzz/DataBase)
