@@ -69,6 +69,7 @@
 ---
 
 ### 🤝Project
-- [**Newton-Raphson Method Robot Inverse Kinematics + Trajectory**](https://github.com/Wadangzz/Numerical_IK)   
+- [**Newton-Raphson Method Robot Inverse Kinematics + Trajectory**](https://github.com/Wadangzz/Numerical_IK)
+- [**UR5 Unity 3D Simulation with python Numerical IK**](https://github.com/Wadangzz/UR5_Unity)
 - [**인천인력개발원 전기자동차 배터리 Pack 통합 제조 솔루션 구축**](https://github.com/Wadangzz/Project)   
 - [**CNN-LSTM 진동 예측 모델**](https://github.com/Wadangzz/CNN_LSTM)   
